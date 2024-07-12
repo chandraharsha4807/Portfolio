@@ -17,7 +17,7 @@
                 Experienced UI Developer
                 <span class="hr-line-color">|</span> Proficient in Javascript,
                 Vue.js, React.js <span class="hr-line-color">|</span> Frontend
-                Specialist with 2 Years 9 Months of Hands-on Expertise.
+                Specialist with 3 Years of Hands-on Expertise.
               </v-card-text>
             </div>
             <v-spacer></v-spacer>

@@ -22,11 +22,11 @@
               >
               <span class="descritpion pb-2">
                 <span class="hr-line-color-2">1. </span>Enthusiastic and
-                detail-oriented UI Developer with 2 years 9 months of hands-on
+                detail-oriented UI Developer with 3 years of hands-on
                 experience in crafting visually appealing and user-friendly
                 interfaces.<br />
                 <span class="hr-line-color-2">2. </span>Proficient in modern
-                frontend technologies, including Vue.js, HTML5, and CSS3. Adept
+                frontend technologies, javascript, HTML5, CSS3, Vue.js, React.js. Adept
                 at translating design concepts into seamless, responsive, and
                 interactive web applications.<br />
                 <span class="hr-line-color-2">3. </span>Proven ability to
