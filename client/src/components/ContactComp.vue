@@ -64,4 +64,7 @@ const contactInfo = ref([
 .declartion-text {
   font-size: larger;
 }
+#contactContainer{
+  margin-bottom: 100px;
+}
 </style>

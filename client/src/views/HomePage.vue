@@ -71,10 +71,10 @@ const trackScroll = (event: any) => {
   if (
     homeRect.top < 10 &&
     aboutRect.top <= homeRect.height &&
-    aboutRect.bottom >= contactRect.height
+    aboutRect.bottom >= contactRect.height + 300
   ) {
     tab.value = 2;
-  } else if (aboutRect.bottom <= contactRect.height) {
+  } else if (aboutRect.bottom - 300 <= contactRect.height) {
     tab.value = 3;
   } else {
     tab.value = 1;
